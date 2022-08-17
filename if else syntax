@@ -1,0 +1,12 @@
+if(test_expression)
+{
+   //execute your code
+}
+else if(test_expression n)
+{
+   //execute your code
+}
+else
+{
+   //execute your code
+}
